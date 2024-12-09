@@ -2,7 +2,7 @@ An IMDb (Internet Movie Database) Dashboard typically involves visualizing and a
 
 Components of an IMDb Dashboard:
 1. Key Performance Indicators (KPIs):
-2. 
+   
 The dashboard will likely display the following KPIs:
 
 Average Rating: The average rating for movies in the dataset.
