@@ -2,11 +2,17 @@ An IMDb (Internet Movie Database) Dashboard typically involves visualizing and a
 
 Components of an IMDb Dashboard:
 1. Key Performance Indicators (KPIs):
+2. 
 The dashboard will likely display the following KPIs:
 
 Average Rating: The average rating for movies in the dataset.
+
 Number of Votes: Total number of votes for movies, which can indicate popularity.
+
 Genre Distribution: number of movies over years.
+
 Top Movies by Rating: Movies with the highest ratings.
+
 Top Movies by Votes: Movies with the highest votes.
+
 Most voted genre: Highest votes genres
