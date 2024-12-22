@@ -1,0 +1,30 @@
+###1. Data Preparation & Modeling
+Standardized date formats using a date table for accurate year-to-date and prior-year comparisons.
+Added calculated columns to differentiate sales months from empty months, ensuring precise analysis.
+Created a measures table for metrics like sales, gross profit, and quantity to simplify data modeling.
+Introduced past data flags for accurate trend analysis without misleading data.
+
+####2. Key Measures and Calculations
+Developed Year-To-Date (YTD) calculations for sales, quantity, and gross profit using correct date dimensions for accuracy.
+Implemented Switch Measures for dynamic toggling between metrics (sales, gross profit, etc.) for flexible analysis.
+Created a comparison measure to evaluate current YTD vs. prior-year data, enabling performance assessment.
+
+###3. Report Design & Visualization
+Designed visually appealing layouts using customized backgrounds, card visuals, and consistent themes.
+Integrated slicers to switch between YTD and prior-year comparisons, enhancing interactivity.
+Used conditional formatting for performance metrics, applying color codes for easy interpretation of trends.
+
+###4. Advanced Visualization Techniques
+Utilized charts like waterfall, scatter, and stacked column charts to highlight performance trends and underperforming regions.
+Added average lines to visualizations for benchmarking and identifying areas needing improvement.
+Explored dynamic titles that reflect the selected data, improving context and user experience.
+
+###5. Profitability & Actionable Insights
+Created scatter charts to segment and prioritize accounts based on profitability and volume.
+Highlighted accounts with above-average gross profit but low sales, targeting strategies to boost sales.
+Identified key underperforming regions (e.g., Canada, Colombia) and discussed strategies for market improvement.
+
+###6. Final Review and Reporting
+Focused on customizing visuals with elements like shadows, fonts, and colors for aesthetic and readability.
+Discussed the importance of documenting insights, such as significant declines in specific months or regions, for actionable strategies.
+Encouraged viewers to implement the discussed techniques in their portfolios to demonstrate real-world proficiency.
